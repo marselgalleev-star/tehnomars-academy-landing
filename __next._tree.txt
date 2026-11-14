@@ -2,4 +2,4 @@
 :HL["/tehnomars-academy-landing/_next/static/media/1361b9baaefe9807-s.p.1d_6dtvtn9g3_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/tehnomars-academy-landing/_next/static/media/65341aea9fb91af5-s.p.1dqa_6e_ad4sj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"xTCRY6C9ddzhO_jXFMS5D","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"l5rY2Ti2w655zjx5ZdOk0","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

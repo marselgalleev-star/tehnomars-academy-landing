@@ -1,4 +1,4 @@
 :HL["/tehnomars-academy-landing/_next/static/chunks/11kmdv_lsg58z.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"xTCRY6C9ddzhO_jXFMS5D","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"l5rY2Ti2w655zjx5ZdOk0","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
